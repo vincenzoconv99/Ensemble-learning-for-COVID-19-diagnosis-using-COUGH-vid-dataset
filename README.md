@@ -13,15 +13,21 @@ We compared many classifiers and stacked them to have more robust predictions fo
   <b>1_data_exploration.ipynb</b> data exploration on the dataset
 </li>
 
-3_segmentation_featureextraction.ipynb
-Add files via upload
-yesterday
-4_pca_and_kmeans_on_the_selected_feature_subset.ipynb
-Add files via upload
-yesterday
-5_ensemble_learning.ipynb
-Add files via upload
-yesterday
-6_classifiers_comparison.ipynb 
+<li>
+  <b>2_segmentation_featureextraction.ipynb</b> used to segment audio in multiple cough segments and extract features
+</li>
+
+<li>
+  <b>3_pca_and_kmeans_on_the_selected_feature_subset.ipynb</b> used to understand the problem difficulty by applying pca and then K-means to see how many samples it cluster correctly.
+</li>
+
+<li>
+  <b>4_ensemble_learning.ipynb</b> used to learn single classifiers and stack them
+</li>
+
+<li>
+  <b>5_classifiers_comparison.ipynb </b> used to understand how similar classifiers are
+</li>
+
   
 </ul>
