@@ -6,7 +6,7 @@ We compared many classifiers and stacked them to have more robust predictions fo
 <ul>
 
 <li>
-  <b>0_convert.ipynb</b> contains the code used to convert to waw other audio format files.
+  <b>0_convert.ipynb</b> used to convert to waw other audio format files.
 </li>
   
 <li>
