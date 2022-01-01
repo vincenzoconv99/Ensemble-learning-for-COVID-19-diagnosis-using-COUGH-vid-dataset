@@ -6,12 +6,13 @@ We compared many classifiers and stacked them to have more robust predictions fo
 <ul>
 
 <li>
-  0_convert.ipynb contains the code used to 
+  <b>0_convert.ipynb</b> contains the code used to convert to waw other audio format files.
 </li>
   
-1_data_exploration.ipynb
-Add files via upload
-yesterday
+<li>
+  <b>1_data_exploration.ipynb</b> data exploration on the dataset
+</li>
+
 3_segmentation_featureextraction.ipynb
 Add files via upload
 yesterday
